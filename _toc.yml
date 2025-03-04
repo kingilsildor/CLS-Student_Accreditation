@@ -4,4 +4,7 @@
 format: jb-book
 root: docs/home
 chapters:
-- file: docs/notebook
+- file: docs/models
+- file: docs/stories
+- file: docs/interviews
+- file: docs/statistics
