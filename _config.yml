@@ -2,7 +2,9 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Student Accreditation Chapter # Change this to your book title.
+logo: images/logo.png
 author: Tycho Stan # Change this to your name (or your team/organization name).
+email: tycho.stam@student.uva.nl
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
